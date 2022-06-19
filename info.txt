@@ -2,3 +2,19 @@
 // git init 
 
 // working ==> staging ==> local repo ========> remote repo 
+
+// git status ===> untracked 
+
+// git add . ====> working to staging 
+// git commit -m "my 1st login"  ========> staging to local repo 
+
+//git config --global user.email "ppranjali94@gmail.com"
+//git config --global user.name "pranjalpawar"
+//git commit -m "my 1st login"
+
+//  branch -M main
+// remote add origin https://github.com/pranjalpawar/gitpr.git
+// push -u origin main
+
+// git hub (login to git hub )
+// create new repo 
