@@ -1,0 +1,4 @@
+// git status 
+// git init 
+
+// working ==> staging ==> local repo ========> remote repo 
